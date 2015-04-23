@@ -1,19 +1,21 @@
-if success:
-\paragraph{Test One Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
-	
+If the use case implementation was successful:
+\paragraph{Requirement 1}
+	\subparagraph{Expected functionality}
+	1. It provides statistical information that can be used in the interface to display facts about the average user and how the logged-in user compares with the average.
 	\subparagraph{Actual Test output}
-	This test was a success 
-		
-if it is not a success:
-\paragraph{Test Two Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
-	
+	This test was successful, however it provides minimal statistical  information which is only limited to threads and does not include statistics related users.
+
+\paragraph{Requirement 2}
+	\subparagraph{Expected functionality}
+2. It provides ways to gather data that is in the persistent store and present it in a format that
+is usable by other modules that are external to Buzz.
+\subparagraph{Actual Test output}
+	This test was successful but does not present data in a format that is usable by other modules.The only functionality
+	provided is the ability to store data.
+
+\paragraph{Requirement 3}
+	\subparagraph{Expected functionality}
+3. It provides functionality to alter record sets in a Buzz space by uploading the relevant information that is stored in a csv file.
 	\subparagraph{Actual Test output}
-	This test was a failure for the following reasons
-		\begin{itemize}
-			\item because the team didn't implement this
-			\item because testing
-		\end{itemize}
+This test was succesfull. One is able to import that alters records and also export data.
+	
