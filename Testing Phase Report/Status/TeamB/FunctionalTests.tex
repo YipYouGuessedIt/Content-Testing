@@ -1,19 +1,46 @@
-if success:
-\paragraph{Test One Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
+
+\paragraph{Requirement 1}
+	\subparagraph{Expected Functionality}
+	This test must provide the ability to assess a number of measures around individual Buzz Space contributions.
 	
 	\subparagraph{Actual Test output}
-	This test was a success 
+	This test was successful as it provides ways to create new ways in which a profile status is calculated for a BuzzSpace. The only problem was that the needed 			authorisation was not implemented where it must have been. Only lecturers are supposed to be able to create these new ways. 
 		
-if it is not a success:
-\paragraph{Test Two Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
+
+\paragraph{Requirement 2}
+	\subparagraph{Expected Functionality}
+	Be able to use the newly created ways of calculating a status for a profile on a Buzz Space,
 	
 	\subparagraph{Actual Test output}
-	This test was a failure for the following reasons
-		\begin{itemize}
-			\item because the team didn't implement this
-			\item because testing
-		\end{itemize}
+	This function was implemented successfully,  but the specific Buzz Space for which this new calculation method must  added was never specified.
+
+\paragraph{Required Use Cases}
+	\subparagraph{AssessProfile}
+	Not a success because of the following contract services being denied:
+	\begin{itemize}
+			\item No authorisation was done, thus all users could add a new way of calculating a status and not lecturers only.
+	\end{itemize}
+
+	\subparagraph{setStatusCalculator}
+	Not a success because of the following contract services being denied:
+	\begin{itemize}
+			\item The specific Buzz Space for which the status calculation method must be changed was never specified or used to change the method. 
+	\end{itemize}	
+
+	\subparagraph{getStatusForProfile}
+	This use case was a success.
+	
+	\subparagraph{createAppraisalType}
+	This use case was a success.
+	
+	\subparagraph{activateAppraisalType}
+	This use case was not implemented in the file from the final commit.
+
+	\subparagraph{assignAppraisalToPost}
+	This use case was not implemented in the file from the final commit.
+
+	\subparagraph{Test Coverage Analysis}
+	33 percent of the use cases were implemented successfully
+
+	
+
