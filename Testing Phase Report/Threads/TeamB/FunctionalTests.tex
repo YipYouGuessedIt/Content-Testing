@@ -1,19 +1,16 @@
-if success:
-\paragraph{Test One Name}
+\paragraph{Submit a Post}
 	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
-	
-	\subparagraph{Actual Test output}
-	This test was a success 
-		
-if it is not a success:
-\paragraph{Test Two Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
+	To Submit a Post the following needs to be intergrated:
+		\begin{itemize}
+			\item User's status points needs to be incremented (Status)
+			\item The total number of posts for that thread needs to be increased (Reporting)
+			\item The total number of active members in a thread needs to be increased (if user is new in thread) (Reporting)
+			\item Should be able to add a resource to a post (Resources)
+		\end{itemize}
 	
 	\subparagraph{Actual Test output}
 	This test was a failure for the following reasons
 		\begin{itemize}
-			\item because the team didn't implement this
-			\item because testing
+			\item Intergration team didn't use threads functional team's code(only Resources and Reporting are added).
+			\item No integration between the other modules (status, reporting or resources).
 		\end{itemize}
