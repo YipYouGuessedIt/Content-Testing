@@ -17,3 +17,80 @@ if it is not a success:
 			\item because the team didn't implement this
 			\item because testing
 		\end{itemize}
+
+
+\paragraph{Test One Add resource type}
+	\subparagraph{Test intput}
+	Type = image/jpeg
+	max size = 10000000
+	\subparagraph{Expected Test output}
+	The new mime type is expected to be added to the database to allow new data types to be uploaded by the client later.
+	\subparagraph{Actual Test output}
+	This test was a success 
+
+\paragraph{Test Two Add resource type}
+	\subparagraph{Test intput}
+	Type = image/gif
+	max size = 10000000
+	\subparagraph{Expected Test output}
+	The new mime type is expected to be added to the database to allow new data types to be uploaded by the client later.
+	\subparagraph{Actual Test output}
+	This test was a success
+
+\paragraph{Test Three Add resource type}
+	\subparagraph{Test intput}
+	Type = test
+	max size = 10000000
+	\subparagraph{Expected Test output}
+	Invalid mime type exception
+	\subparagraph{Actual Test output}
+	The invalid mime type was accepted and added to the database. This test is a failure:
+\begin{itemize}
+			\item An invalid mime type is in the databse
+			\item The user will not be informed of this
+		\end{itemize}
+
+\paragraph{Test One remove resource type}
+	\subparagraph{Test intput}
+	Type = image/gif
+	\subparagraph{Expected Test output}
+	The type is expected to be removed and the client returned to the file upload page
+	\subparagraph{Actual Test output}
+	This test was a success 
+
+\paragraph{Test Two remove resource type}
+	\subparagraph{Test intput}
+	Type = wrong
+	\subparagraph{Expected Test output}
+	Invalid mime type exception
+	\subparagraph{Actual Test output}
+	The user is returned to the resources upload. This test is a failure:
+	\begin{itemize}
+			\item The user will not be informed of this
+		\end{itemize}
+
+\paragraph{Test One Upload Resources}
+	\subparagraph{Test intput}
+	File = Desert.jpg
+	Description = Test
+	\subparagraph{Expected Test output}
+	The picture is expected to be uploaded and then shown.
+	\subparagraph{Actual Test output}
+	This test was a success
+
+\paragraph{Test Two Upload Resources}
+	\subparagraph{Test intput}
+	File = test.jpg
+	Description = funny gif
+	\subparagraph{Expected Test output}
+	An unsupported file exception should be thrown as the mime type image/gif is not in the database
+	\subparagraph{Actual Test output}
+	An unsupported file exception was thrown. This test was a success
+
+\paragraph{Test One Delete resource}
+	\subparagraph{Test intput}
+	When viewed the uploaded resources have a delete button which will be tested
+	\subparagraph{Expected Test output}
+	The resource is expected to be deleted and removed from view.
+	\subparagraph{Actual Test output}
+	The resource is removed from the database and from view. This test was a success 
