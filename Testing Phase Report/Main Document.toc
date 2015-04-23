@@ -13,130 +13,157 @@
 \contentsline {subparagraph}{Example of problem}{2}{section*.9}
 \contentsline {subsection}{\numberline {2.2}Threads Team B}{2}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Functional Testing}{2}{subsubsection.2.2.1}
-\contentsline {paragraph}{Test One Name}{2}{section*.10}
+\contentsline {paragraph}{Submit a Post}{2}{section*.10}
 \contentsline {subparagraph}{Expected Test output}{2}{section*.11}
 \contentsline {subparagraph}{Actual Test output}{2}{section*.12}
-\contentsline {paragraph}{Test Two Name}{2}{section*.13}
-\contentsline {subparagraph}{Expected Test output}{2}{section*.14}
-\contentsline {subparagraph}{Actual Test output}{2}{section*.15}
 \contentsline {subsubsection}{\numberline {2.2.2}Non-Functional Testing }{2}{subsubsection.2.2.2}
-\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{2}{section*.16}
-\contentsline {subparagraph}{Example of problem}{3}{section*.17}
-\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{3}{section*.18}
-\contentsline {subparagraph}{Example of problem}{3}{section*.19}
+\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{2}{section*.13}
+\contentsline {subparagraph}{Example of problem}{3}{section*.14}
+\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{3}{section*.15}
+\contentsline {subparagraph}{Example of problem}{3}{section*.16}
 \contentsline {subsection}{\numberline {2.3}Threads Comparison}{3}{subsection.2.3}
 \contentsline {section}{\numberline {3}Status Integration}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}Status Team A}{4}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Functional Testing}{4}{subsubsection.3.1.1}
-\contentsline {paragraph}{Test One Name}{4}{section*.20}
+\contentsline {paragraph}{Test One Name}{4}{section*.17}
+\contentsline {subparagraph}{Expected Test output}{4}{section*.18}
+\contentsline {subparagraph}{Actual Test output}{4}{section*.19}
+\contentsline {paragraph}{Test Two Name}{4}{section*.20}
 \contentsline {subparagraph}{Expected Test output}{4}{section*.21}
 \contentsline {subparagraph}{Actual Test output}{4}{section*.22}
-\contentsline {paragraph}{Test Two Name}{4}{section*.23}
-\contentsline {subparagraph}{Expected Test output}{4}{section*.24}
-\contentsline {subparagraph}{Actual Test output}{4}{section*.25}
 \contentsline {subsubsection}{\numberline {3.1.2}Non-Functional Testing }{4}{subsubsection.3.1.2}
-\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{4}{section*.26}
-\contentsline {subparagraph}{Example of problem}{4}{section*.27}
-\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{4}{section*.28}
-\contentsline {subparagraph}{Example of problem}{5}{section*.29}
+\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{4}{section*.23}
+\contentsline {subparagraph}{Example of problem}{4}{section*.24}
+\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{4}{section*.25}
+\contentsline {subparagraph}{Example of problem}{5}{section*.26}
 \contentsline {subsection}{\numberline {3.2}Status Team B}{5}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}Functional Testing}{5}{subsubsection.3.2.1}
-\contentsline {paragraph}{Test One Name}{5}{section*.30}
-\contentsline {subparagraph}{Expected Test output}{5}{section*.31}
+\contentsline {paragraph}{Requirement 1}{5}{section*.27}
+\contentsline {subparagraph}{Expected Functionality}{5}{section*.28}
+\contentsline {subparagraph}{Actual Test output}{5}{section*.29}
+\contentsline {paragraph}{Requirement 2}{5}{section*.30}
+\contentsline {subparagraph}{Expected Functionality}{5}{section*.31}
 \contentsline {subparagraph}{Actual Test output}{5}{section*.32}
-\contentsline {paragraph}{Test Two Name}{5}{section*.33}
-\contentsline {subparagraph}{Expected Test output}{5}{section*.34}
-\contentsline {subparagraph}{Actual Test output}{5}{section*.35}
-\contentsline {subsubsection}{\numberline {3.2.2}Non-Functional Testing }{5}{subsubsection.3.2.2}
-\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{5}{section*.36}
-\contentsline {subparagraph}{Example of problem}{5}{section*.37}
-\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{5}{section*.38}
-\contentsline {subparagraph}{Example of problem}{6}{section*.39}
+\contentsline {paragraph}{Required Use Cases}{5}{section*.33}
+\contentsline {subparagraph}{AssessProfile}{5}{section*.34}
+\contentsline {subparagraph}{setStatusCalculator}{6}{section*.35}
+\contentsline {subparagraph}{getStatusForProfile}{6}{section*.36}
+\contentsline {subparagraph}{createAppraisalType}{6}{section*.37}
+\contentsline {subparagraph}{activateAppraisalType}{6}{section*.38}
+\contentsline {subparagraph}{assignAppraisalToPost}{6}{section*.39}
+\contentsline {subparagraph}{Test Coverage Analysis}{6}{section*.40}
+\contentsline {subsubsection}{\numberline {3.2.2}Non-Functional Testing }{6}{subsubsection.3.2.2}
+\contentsline {paragraph}{Security}{6}{section*.41}
+\contentsline {subparagraph}{Example of problem}{6}{section*.42}
 \contentsline {subsection}{\numberline {3.3}Status Comparison}{6}{subsection.3.3}
 \contentsline {section}{\numberline {4}Resources Integration}{7}{section.4}
 \contentsline {subsection}{\numberline {4.1}Resources Team A}{7}{subsection.4.1}
 \contentsline {subsubsection}{\numberline {4.1.1}Functional Testing}{7}{subsubsection.4.1.1}
-\contentsline {paragraph}{uploadResources}{7}{section*.40}
-\contentsline {subparagraph}{Expected Test output}{7}{section*.41}
-\contentsline {subparagraph}{Actual Test output}{7}{section*.42}
-\contentsline {paragraph}{Test removeResource}{7}{section*.43}
+\contentsline {paragraph}{uploadResources}{7}{section*.43}
 \contentsline {subparagraph}{Expected Test output}{7}{section*.44}
 \contentsline {subparagraph}{Actual Test output}{7}{section*.45}
-\contentsline {paragraph}{Test addConstraint}{7}{section*.46}
+\contentsline {paragraph}{Test removeResource}{7}{section*.46}
 \contentsline {subparagraph}{Expected Test output}{7}{section*.47}
 \contentsline {subparagraph}{Actual Test output}{7}{section*.48}
-\contentsline {paragraph}{Test removeConstraint}{7}{section*.49}
+\contentsline {paragraph}{Test addConstraint}{7}{section*.49}
 \contentsline {subparagraph}{Expected Test output}{7}{section*.50}
-\contentsline {subparagraph}{Actual Test output}{8}{section*.51}
-\contentsline {paragraph}{Test updateConstraint}{8}{section*.52}
-\contentsline {subparagraph}{Expected Test output}{8}{section*.53}
+\contentsline {subparagraph}{Actual Test output}{7}{section*.51}
+\contentsline {paragraph}{Test removeConstraint}{7}{section*.52}
+\contentsline {subparagraph}{Expected Test output}{7}{section*.53}
 \contentsline {subparagraph}{Actual Test output}{8}{section*.54}
+\contentsline {paragraph}{Test updateConstraint}{8}{section*.55}
+\contentsline {subparagraph}{Expected Test output}{8}{section*.56}
+\contentsline {subparagraph}{Actual Test output}{8}{section*.57}
 \contentsline {subsubsection}{\numberline {4.1.2}Non-Functional Testing }{8}{subsubsection.4.1.2}
-\contentsline {paragraph}{Security}{8}{section*.55}
-\contentsline {subparagraph}{Example of problem}{8}{section*.56}
-\contentsline {paragraph}{Responsive / Performance}{8}{section*.57}
-\contentsline {subparagraph}{Example of problem}{8}{section*.58}
-\contentsline {paragraph}{Usability}{8}{section*.59}
-\contentsline {subparagraph}{Example of problem}{8}{section*.60}
-\contentsline {paragraph}{Quality}{8}{section*.61}
-\contentsline {subparagraph}{Example of problem}{8}{section*.62}
+\contentsline {paragraph}{Security}{8}{section*.58}
+\contentsline {subparagraph}{Example of problem}{8}{section*.59}
+\contentsline {paragraph}{Responsive / Performance}{8}{section*.60}
+\contentsline {subparagraph}{Example of problem}{8}{section*.61}
+\contentsline {paragraph}{Usability}{8}{section*.62}
+\contentsline {subparagraph}{Example of problem}{8}{section*.63}
+\contentsline {paragraph}{Quality}{8}{section*.64}
+\contentsline {subparagraph}{Example of problem}{8}{section*.65}
 \contentsline {subsection}{\numberline {4.2}Resources Team B}{9}{subsection.4.2}
 \contentsline {subsubsection}{\numberline {4.2.1}Functional Testing}{9}{subsubsection.4.2.1}
-\contentsline {paragraph}{Test One Name}{9}{section*.63}
-\contentsline {subparagraph}{Expected Test output}{9}{section*.64}
-\contentsline {subparagraph}{Actual Test output}{9}{section*.65}
-\contentsline {paragraph}{Test Two Name}{9}{section*.66}
-\contentsline {subparagraph}{Expected Test output}{9}{section*.67}
-\contentsline {subparagraph}{Actual Test output}{9}{section*.68}
-\contentsline {subsubsection}{\numberline {4.2.2}Non-Functional Testing }{9}{subsubsection.4.2.2}
-\contentsline {paragraph}{Problem name 1 identified - e.g. Scalability}{9}{section*.69}
-\contentsline {subparagraph}{Example of problem}{9}{section*.70}
-\contentsline {paragraph}{Problem name 2 identified - e.g. Security}{9}{section*.71}
-\contentsline {subparagraph}{Example of problem}{9}{section*.72}
-\contentsline {subsection}{\numberline {4.3}Resources Comparison}{10}{subsection.4.3}
-\contentsline {section}{\numberline {5}Reporting Integration}{11}{section.5}
-\contentsline {subsection}{\numberline {5.1}Reporting Team A}{11}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}Functional Testing}{11}{subsubsection.5.1.1}
-\contentsline {paragraph}{Requirement 1}{11}{section*.73}
-\contentsline {subparagraph}{Expected functionality}{11}{section*.74}
-\contentsline {subparagraph}{Actual Test output}{11}{section*.75}
-\contentsline {paragraph}{Requirement 2}{11}{section*.76}
-\contentsline {subparagraph}{Expected functionality}{11}{section*.77}
-\contentsline {subparagraph}{Actual Test output}{11}{section*.78}
-\contentsline {paragraph}{Requirement 3}{11}{section*.79}
-\contentsline {subparagraph}{Expected functionality}{11}{section*.80}
-\contentsline {subparagraph}{Actual Test output}{11}{section*.81}
-\contentsline {paragraph}{Required Use-Cases}{12}{section*.82}
-\contentsline {subparagraph}{Get Thread Statistics}{12}{section*.83}
-\contentsline {subparagraph}{Get Thread Appraisal}{12}{section*.84}
-\contentsline {subparagraph}{Export Thread Appraisal}{12}{section*.85}
-\contentsline {subparagraph}{Import Thread Appraisal}{12}{section*.86}
-\contentsline {subparagraph}{Export Thread}{12}{section*.87}
-\contentsline {subparagraph}{Import Thread}{12}{section*.88}
-\contentsline {paragraph}{Test Coverage Analysis}{12}{section*.89}
-\contentsline {subsubsection}{\numberline {5.1.2}Non-Functional Testing }{12}{subsubsection.5.1.2}
-\contentsline {paragraph}{Problems}{12}{section*.90}
-\contentsline {paragraph}{Performance}{12}{section*.91}
-\contentsline {paragraph}{Scalability}{12}{section*.92}
-\contentsline {paragraph}{Maintainability}{13}{section*.93}
-\contentsline {paragraph}{Reliability}{13}{section*.94}
-\contentsline {paragraph}{Usability}{13}{section*.95}
-\contentsline {subsection}{\numberline {5.2}Reporting Team B}{13}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Functional Testing}{13}{subsubsection.5.2.1}
-\contentsline {paragraph}{Requirement 1}{13}{section*.96}
-\contentsline {subparagraph}{Expected functionality}{13}{section*.97}
-\contentsline {subparagraph}{Actual Test output}{13}{section*.98}
-\contentsline {paragraph}{Requirement 2}{13}{section*.99}
-\contentsline {subparagraph}{Expected functionality}{13}{section*.100}
-\contentsline {subparagraph}{Actual Test output}{13}{section*.101}
-\contentsline {paragraph}{Requirement 3}{13}{section*.102}
-\contentsline {subparagraph}{Expected functionality}{14}{section*.103}
-\contentsline {subparagraph}{Actual Test output}{14}{section*.104}
-\contentsline {subsubsection}{\numberline {5.2.2}Non-Functional Testing }{14}{subsubsection.5.2.2}
-\contentsline {paragraph}{Problems}{14}{section*.105}
-\contentsline {paragraph}{Performance}{14}{section*.106}
-\contentsline {paragraph}{Scalability}{14}{section*.107}
-\contentsline {paragraph}{Maintainability}{14}{section*.108}
-\contentsline {paragraph}{Reliability}{14}{section*.109}
-\contentsline {paragraph}{Usability}{14}{section*.110}
-\contentsline {subsection}{\numberline {5.3}Reporting Comparison}{14}{subsection.5.3}
+\contentsline {paragraph}{Test One Add resource type}{9}{section*.66}
+\contentsline {subparagraph}{Test intput}{9}{section*.67}
+\contentsline {subparagraph}{Expected Test output}{9}{section*.68}
+\contentsline {subparagraph}{Actual Test output}{9}{section*.69}
+\contentsline {paragraph}{Test Two Add resource type}{9}{section*.70}
+\contentsline {subparagraph}{Test intput}{9}{section*.71}
+\contentsline {subparagraph}{Expected Test output}{9}{section*.72}
+\contentsline {subparagraph}{Actual Test output}{9}{section*.73}
+\contentsline {paragraph}{Test Three Add resource type}{9}{section*.74}
+\contentsline {subparagraph}{Test intput}{9}{section*.75}
+\contentsline {subparagraph}{Expected Test output}{9}{section*.76}
+\contentsline {subparagraph}{Actual Test output}{9}{section*.77}
+\contentsline {paragraph}{Test One remove resource type}{9}{section*.78}
+\contentsline {subparagraph}{Test intput}{10}{section*.79}
+\contentsline {subparagraph}{Expected Test output}{10}{section*.80}
+\contentsline {subparagraph}{Actual Test output}{10}{section*.81}
+\contentsline {paragraph}{Test Two remove resource type}{10}{section*.82}
+\contentsline {subparagraph}{Test intput}{10}{section*.83}
+\contentsline {subparagraph}{Expected Test output}{10}{section*.84}
+\contentsline {subparagraph}{Actual Test output}{10}{section*.85}
+\contentsline {paragraph}{Test One Upload Resources}{10}{section*.86}
+\contentsline {subparagraph}{Test intput}{10}{section*.87}
+\contentsline {subparagraph}{Expected Test output}{10}{section*.88}
+\contentsline {subparagraph}{Actual Test output}{10}{section*.89}
+\contentsline {paragraph}{Test Two Upload Resources}{10}{section*.90}
+\contentsline {subparagraph}{Test intput}{10}{section*.91}
+\contentsline {subparagraph}{Expected Test output}{10}{section*.92}
+\contentsline {subparagraph}{Actual Test output}{10}{section*.93}
+\contentsline {paragraph}{Test One Delete resource}{11}{section*.94}
+\contentsline {subparagraph}{Test intput}{11}{section*.95}
+\contentsline {subparagraph}{Expected Test output}{11}{section*.96}
+\contentsline {subparagraph}{Actual Test output}{11}{section*.97}
+\contentsline {subsubsection}{\numberline {4.2.2}Non-Functional Testing }{11}{subsubsection.4.2.2}
+\contentsline {paragraph}{Problem No editing of resource types}{11}{section*.98}
+\contentsline {subparagraph}{Example}{11}{section*.99}
+\contentsline {subsection}{\numberline {4.3}Resources Comparison}{11}{subsection.4.3}
+\contentsline {section}{\numberline {5}Reporting Integration}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Reporting Team A}{12}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Functional Testing}{12}{subsubsection.5.1.1}
+\contentsline {paragraph}{Requirement 1}{12}{section*.100}
+\contentsline {subparagraph}{Expected functionality}{12}{section*.101}
+\contentsline {subparagraph}{Actual Test output}{12}{section*.102}
+\contentsline {paragraph}{Requirement 2}{12}{section*.103}
+\contentsline {subparagraph}{Expected functionality}{12}{section*.104}
+\contentsline {subparagraph}{Actual Test output}{12}{section*.105}
+\contentsline {paragraph}{Requirement 3}{12}{section*.106}
+\contentsline {subparagraph}{Expected functionality}{12}{section*.107}
+\contentsline {subparagraph}{Actual Test output}{12}{section*.108}
+\contentsline {paragraph}{Required Use-Cases}{13}{section*.109}
+\contentsline {subparagraph}{Get Thread Statistics}{13}{section*.110}
+\contentsline {subparagraph}{Get Thread Appraisal}{13}{section*.111}
+\contentsline {subparagraph}{Export Thread Appraisal}{13}{section*.112}
+\contentsline {subparagraph}{Import Thread Appraisal}{13}{section*.113}
+\contentsline {subparagraph}{Export Thread}{13}{section*.114}
+\contentsline {subparagraph}{Import Thread}{13}{section*.115}
+\contentsline {paragraph}{Test Coverage Analysis}{13}{section*.116}
+\contentsline {subsubsection}{\numberline {5.1.2}Non-Functional Testing }{13}{subsubsection.5.1.2}
+\contentsline {paragraph}{Problems}{13}{section*.117}
+\contentsline {paragraph}{Performance}{13}{section*.118}
+\contentsline {paragraph}{Scalability}{13}{section*.119}
+\contentsline {paragraph}{Maintainability}{14}{section*.120}
+\contentsline {paragraph}{Reliability}{14}{section*.121}
+\contentsline {paragraph}{Usability}{14}{section*.122}
+\contentsline {subsection}{\numberline {5.2}Reporting Team B}{14}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Functional Testing}{14}{subsubsection.5.2.1}
+\contentsline {paragraph}{Requirement 1}{14}{section*.123}
+\contentsline {subparagraph}{Expected functionality}{14}{section*.124}
+\contentsline {subparagraph}{Actual Test output}{14}{section*.125}
+\contentsline {paragraph}{Requirement 2}{14}{section*.126}
+\contentsline {subparagraph}{Expected functionality}{14}{section*.127}
+\contentsline {subparagraph}{Actual Test output}{14}{section*.128}
+\contentsline {paragraph}{Requirement 3}{14}{section*.129}
+\contentsline {subparagraph}{Expected functionality}{15}{section*.130}
+\contentsline {subparagraph}{Actual Test output}{15}{section*.131}
+\contentsline {subsubsection}{\numberline {5.2.2}Non-Functional Testing }{15}{subsubsection.5.2.2}
+\contentsline {paragraph}{Problems}{15}{section*.132}
+\contentsline {paragraph}{Performance}{15}{section*.133}
+\contentsline {paragraph}{Scalability}{15}{section*.134}
+\contentsline {paragraph}{Maintainability}{15}{section*.135}
+\contentsline {paragraph}{Reliability}{15}{section*.136}
+\contentsline {paragraph}{Usability}{15}{section*.137}
+\contentsline {subsection}{\numberline {5.3}Reporting Comparison}{15}{subsection.5.3}
