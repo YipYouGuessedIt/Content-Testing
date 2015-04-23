@@ -1,19 +1,38 @@
-if success:
-\paragraph{Test One Name}
+
+\paragraph{uploadResources}
 	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
+	Add the uploaded resource to the list of resources, and display the list
 	
 	\subparagraph{Actual Test output}
-	This test was a success 
-		
-if it is not a success:
-\paragraph{Test Two Name}
-	\subparagraph{Expected Test output}
-	Please write what the client expected the test to do.
-	
-	\subparagraph{Actual Test output}
-	This test was a failure for the following reasons
+	Option to upload available, but not functioning (does not add resource to the list) 
 		\begin{itemize}
-			\item because the team didn't implement this
-			\item because testing
+			\item Because the team didn't integrate this, implemented the function
 		\end{itemize}
+		
+\paragraph{Test removeResource}
+	\subparagraph{Expected Test output}
+	Remove resource and display list of resources with resource of interest removed
+	
+	\subparagraph{Actual Test output}
+	Removed resource and displayed list of resources with resource of interest removed
+	
+\paragraph{Test addConstraint}
+	\subparagraph{Expected Test output}
+	Add constraint with specified details and display list of constraints with the constraint of added 
+	
+	\subparagraph{Actual Test output}
+	Added constraint with specified details and display list of constraints with the constraints of added included
+	
+\paragraph{Test removeConstraint}
+	\subparagraph{Expected Test output}
+	Remove constraint and display list of constraints with constraint of interest removed
+	
+	\subparagraph{Actual Test output}
+	Removed constraint and displayed list of constraints with constraint of interest removed
+	
+\paragraph{Test updateConstraint}
+	\subparagraph{Expected Test output}
+	Change constraint details to those specified in the field (size) and display list of constraints with the updated constraint included
+	
+	\subparagraph{Actual Test output}
+	Changed constraint details to those specified in the field (size) and displayed list of constraints with the updated constraint included
