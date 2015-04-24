@@ -1,21 +1,47 @@
-If the use case implementation was successful:
-\paragraph{Requirement 1}
+
+\paragraph{Requirement 1 - Get Thread Statistics}
 	\subparagraph{Expected functionality}
-	1. It provides statistical information that can be used in the interface to display facts about the average user and how the logged-in user compares with the average.
+	It provides statistical information that can be used in the interface to display facts about the average user and how the logged-in user compares with the average.
 	\subparagraph{Actual Test output}
 	This test was successful, however it provides minimal statistical  information which is only limited to threads and does not include statistics related users.
 
-\paragraph{Requirement 2}
+\paragraph{Requirement 3 - Upload CSV}
 	\subparagraph{Expected functionality}
-2. It provides ways to gather data that is in the persistent store and present it in a format that
-is usable by other modules that are external to Buzz.
-\subparagraph{Actual Test output}
-	This test was successful but does not present data in a format that is usable by other modules.The only functionality
-	provided is the ability to store data.
-
-\paragraph{Requirement 3}
-	\subparagraph{Expected functionality}
-3. It provides functionality to alter record sets in a Buzz space by uploading the relevant information that is stored in a csv file.
+	It provides functionality to alter record sets in a Buzz space by uploading the relevant information that is stored in a csv file.
 	\subparagraph{Actual Test output}
-This test was succesfull. One is able to import that alters records and also export data.
+This test was successful. One is able to import that alters records and also export data.
+
+\paragraph{Requirement 3 - Get Thread Appraisal}
+	\subparagraph{Expected functionality}
+Meant to provide a versatile way to get detailed or statistical information of subsets of posts complying with specified restrictions and their associated appraisals assigned by specified members.
+	\subparagraph{Actual Test output}
+	This test was a failure, function was not implemented.
+	 	
+\paragraph{Requirement 4 - Export Thread Appraisal}
+	\subparagraph{Expected functionality}
+	Meant to realise an off-line facility to apply a manual appraisal. It creates the dataset to be used that can be edited off-line and allow updates to be inserted through the importThreadAppraisal function.
+	\subparagraph{Actual Test output}
+	This test was a failure, function was not implemented.
+	
+\paragraph{ Requirement 5 - Import Thread Appraisal}
+	\subparagraph{Expected functionality}
+	Meant to realise an offline-facility to apply a manual appraisal. It is dependent on the exportThreadAppraisal function.
+	\subparagraph{Actual Test output}
+	This test was a failure, function was not implemented.
+	
+\paragraph{ Requirement 6 - Export Thread}
+\subparagraph{Expected functionality}
+	Meant to provide means to back up the content of a thread or subset of a thread in a serialised text file.
+	\subparagraph{Actual Test output}
+	This test was a failure, function was not implemented.
+	
+\paragraph{Requirement 7 - Import Thread}
+	\subparagraph{Expected functionality}
+	Meant to provide means to restore the content of a thread or subset of a thread that was stored using the exportThread function.
+	\subparagraph{Actual Test output}
+	This test was a failure, function was not implemented.
+	
+
+
+		
 	

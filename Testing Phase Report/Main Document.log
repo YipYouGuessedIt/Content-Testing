@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  24 APR 2015 16:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  24 APR 2015 17:15
 entering extended mode
 **Main*Document.tex
 
@@ -288,25 +288,58 @@ Overfull \hbox (7.22903pt too wide) in paragraph at lines 10--11
 
 ) [11]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
-s/TeamB/FunctionalTests.tex" [12]
-Overfull \hbox (5.72633pt too wide) in paragraph at lines 65--66
+s/TeamB/FunctionalTests.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+ []\OT1/cmr/bx/n/12 Actual Test out-put[] \OT1/cmr/m/n/12 This test was a suc-c
+ess.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+ []\OT1/cmr/bx/n/12 Actual Test out-put[] \OT1/cmr/m/n/12 This test was a suc-c
+ess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+ []\OT1/cmr/bx/n/12 Actual Test out-put[] \OT1/cmr/m/n/12 This test was a suc-c
+ess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Overfull \hbox (5.72633pt too wide) in paragraph at lines 53--54
  []\OT1/cmr/bx/n/12 Expected Test out-put[] \OT1/cmr/m/n/12 An un-sup-ported fi
 le ex-cep-tion should be thrown
  []
 
-[13])
+)
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
-s/TeamB/NonFunctional.tex") [14]
+s/TeamB/NonFunctional.tex" [13]) [14]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamA/FunctionalTests.tex" [15])
+g/TeamA/FunctionalTests.tex" [15] [16])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamA/NonFunctional.tex" [16])
+g/TeamA/NonFunctional.tex")
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamB/FunctionalTests.tex" [17])
+g/TeamB/FunctionalTests.tex" [17] [18])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamB/NonFunctional.tex")
+g/TeamB/NonFunctional.tex" [19])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
- [18]
+ [20]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
 
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Main Doc
@@ -323,8 +356,8 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 5271 strings out of 493921
- 81905 string characters out of 3144475
+ 5283 strings out of 493921
+ 82039 string characters out of 3144475
  153823 words of memory out of 3000000
  8293 multiletter control sequences out of 15000+200000
  8193 words of font info for 29 fonts, out of 3000000 for 9000
@@ -334,9 +367,9 @@ Here is how much of TeX's memory you used:
 ><C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
 /Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Main Document.pdf" (21 pages, 137428 bytes).
+Output written on "Main Document.pdf" (23 pages, 141252 bytes).
 PDF statistics:
- 524 PDF objects out of 1000 (max. 8388607)
- 213 named destinations out of 1000 (max. 500000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
  353 words of extra memory for PDF output out of 10000 (max. 10000000)
 
