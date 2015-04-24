@@ -1,23 +1,13 @@
-\paragraph{Test One Add resource type}
-	\subparagraph{Test intput}
+\paragraph{Requirement 1 - Add Resource Type}
+	\subparagraph{Test 1 input}
 	Type = image/jpeg
 	max size = 10000000
 	\subparagraph{Expected Test output}
 	The new mime type is expected to be added to the database to allow new data types to be uploaded by the client later.
 	\subparagraph{Actual Test output}
-	This test was a success 
-
-\paragraph{Test Two Add resource type}
-	\subparagraph{Test intput}
-	Type = image/gif
-	max size = 10000000
-	\subparagraph{Expected Test output}
-	The new mime type is expected to be added to the database to allow new data types to be uploaded by the client later.
-	\subparagraph{Actual Test output}
-	This test was a success
-
-\paragraph{Test Three Add resource type}
-	\subparagraph{Test intput}
+	This test was a success.
+	\linebreak
+	\subparagraph{Test 2 input}
 	Type = test
 	max size = 10000000
 	\subparagraph{Expected Test output}
@@ -29,16 +19,15 @@
 			\item The user will not be informed of this
 		\end{itemize}
 
-\paragraph{Test One remove resource type}
-	\subparagraph{Test intput}
+\paragraph{Requirement 2 - Remove Resource Type}
+	\subparagraph{Test 1 input}
 	Type = image/gif
 	\subparagraph{Expected Test output}
 	The type is expected to be removed and the client returned to the file upload page
 	\subparagraph{Actual Test output}
 	This test was a success 
-
-\paragraph{Test Two remove resource type}
-	\subparagraph{Test intput}
+	\linebreak
+	\subparagraph{Test 2 input}
 	Type = wrong
 	\subparagraph{Expected Test output}
 	Invalid mime type exception
@@ -48,16 +37,15 @@
 			\item The user will not be informed of this
 		\end{itemize}
 
-\paragraph{Test One Upload Resources}
-	\subparagraph{Test intput}
+\paragraph{Requirement 3 - Upload Resources}
+	\subparagraph{Test 1 intput}
 	File = Desert.jpg
 	Description = Test
 	\subparagraph{Expected Test output}
 	The picture is expected to be uploaded and then shown.
 	\subparagraph{Actual Test output}
 	This test was a success
-
-\paragraph{Test Two Upload Resources}
+	\linebreak
 	\subparagraph{Test intput}
 	File = test.jpg
 	Description = funny gif
@@ -66,7 +54,7 @@
 	\subparagraph{Actual Test output}
 	An unsupported file exception was thrown. This test was a success
 
-\paragraph{Test One Delete resource}
+\paragraph{Requirement 4 - Delete resource}
 	\subparagraph{Test intput}
 	When viewed the uploaded resources have a delete button which will be tested
 	\subparagraph{Expected Test output}
