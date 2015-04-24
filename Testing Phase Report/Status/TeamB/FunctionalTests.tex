@@ -1,5 +1,5 @@
 
-\paragraph{Requirement 1}
+\paragraph{Requirement 1 - Get Status For Profile}
 	\subparagraph{Expected Functionality}
 	This test must provide the ability to assess a number of measures around individual Buzz Space contributions.
 	
@@ -7,40 +7,45 @@
 	This test was successful as it provides ways to create new ways in which a profile status is calculated for a BuzzSpace. The only problem was that the needed 			authorisation was not implemented where it must have been. Only lecturers are supposed to be able to create these new ways. 
 		
 
-\paragraph{Requirement 2}
+\paragraph{Requirement 2 - Calculate Access Level}
 	\subparagraph{Expected Functionality}
-	Be able to use the newly created ways of calculating a status for a profile on a Buzz Space,
+	Be able to use the newly created ways of calculating a status for a profile on a Buzz Space.
 	
 	\subparagraph{Actual Test output}
 	This function was implemented successfully,  but the specific Buzz Space for which this new calculation method must  added was never specified.
 
-\paragraph{Required Use Cases}
-	\subparagraph{AssessProfile}
+\paragraph{Requirement 3 - Assess Profile}
+ 	\subparagraph{Expected Functionality}
+	The user will be shown the profile they wish to access.	
+	\subparagraph{Actual Test output}
 	Not a success because of the following contract services being denied:
 	\begin{itemize}
 			\item No authorisation was done, thus all users could add a new way of calculating a status and not lecturers only.
 	\end{itemize}
 
-	\subparagraph{setStatusCalculator}
+\paragraph{Requirement 4 - Create Appraisal Type}
+	\subparagraph{Expected Functionality}
+	User should be able to create an appraisal type, which includes the upload of appraisal images done by resources.	
+	\subparagraph{Actual Test Output}
 	Not a success because of the following contract services being denied:
 	\begin{itemize}
 			\item The specific Buzz Space for which the status calculation method must be changed was never specified or used to change the method. 
 	\end{itemize}	
 
-	\subparagraph{getStatusForProfile}
-	This use case was a success.
+\paragraph{Requirement 5 - Assign Appraisal To Post}
+	\subparagraph{Expected Functionality}
+	Appraisal type should be assigned to the post(s).
+	\subparagraph{Actual test Output}
+	This use case was not implemented in the file from the final commit.
 	
-	\subparagraph{createAppraisalType}
-	This use case was a success.
-	
-	\subparagraph{activateAppraisalType}
+\paragraph{Requirement 6 - Activate Appraisal Type}
+	\subparagraph{Expected Functionality}
+	Activate the appraisal type for grading.
+	\subparagraph{Actual Test Output}	
 	This use case was not implemented in the file from the final commit.
 
-	\subparagraph{assignAppraisalToPost}
-	This use case was not implemented in the file from the final commit.
-
-	\subparagraph{Test Coverage Analysis}
+	\paragraph{Test Coverage Analysis}
 	33 percent of the use cases were implemented successfully
 
-	
 
+	

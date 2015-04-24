@@ -26,7 +26,7 @@
     {\normalsize Zander Boshoff (12035671)\par}
     {\normalsize Tebogo Seshibe (13181442)\par}
     {\normalsize Kgomotso Sito (12243273)\par}
-    {\normalsize Thabang Letageng ()\par}
+    {\normalsize Thabang Letageng (13057937)\par}
     \vspace{1cm}
     
     {\Large April 2015\par}
@@ -51,7 +51,9 @@
 \section{Introduction} 
 	\paragraph{}
 	The purpose of this document is to provide incite into what was produced by both Content  Team A (Buzz++) and Content Team B (D3). Groups were to provide an infrastructure to their low level teams and then build integration tests that would then allow the functional teams produced code to be tested and eventually added into the system. Tests were done per sub module (e.g. reporting, resource, threads and status) as to break up the integration that was to be done and provide and easier way to compare the teams work and functional code.
+	
 \section{Threads Integration}
+The tests provided below show all cases in which the Threads module was to make use of another Content module and the expected and actual results of each tests. We then explain which non-functional requirements have not been fulfilled in the overall Threads module.
 	\subsection{Threads Team A}	
 		\subsubsection{Functional Testing}
 			\input{Threads/TeamA/FunctionalTests.tex}
@@ -65,8 +67,11 @@
 			\input{Threads/TeamB/NonFunctional.tex}
 	
 	\subsection{Threads Comparison}
+	According to the above tests both teams failed to integrate Threads with in the overall system, as all covered tests were failures and did not provide the expected functionality for the reasons given above.
+	
 \newpage 
 \section{Status Integration}
+The tests provided below show all cases in which the Status module was to make use of another Content module and the expected and actual results of each tests. We then explain which non-functional requirements have not been fulfilled in the overall Status module.
 	\subsection{Status Team A}	
 		\subsubsection{Functional Testing}
 			\input{Status/TeamA/FunctionalTests.tex}
@@ -82,6 +87,7 @@
 	\subsection{Status Comparison}
 \newpage 
 \section{Resources Integration}
+The tests provided below show all cases in which the Resources module was to make use of another Content module and the expected and actual results of each tests. We then explain which non-functional requirements have not been fulfilled in the overall Resources module.
 	\subsection{Resources Team A}	
 		\subsubsection{Functional Testing}
 			\input{Resources/TeamA/FunctionalTests.tex}
@@ -97,8 +103,10 @@
 	
 	\subsection{Resources Comparison}
 	
+	
 \newpage 
 \section{Reporting Integration}
+The tests provided below show all cases in which the Reporting module was to make use of another Content module and the expected and actual results of each tests. We then explain which non-functional requirements have not been fulfilled in the overall Reporting module.
 	\subsection{Reporting Team A}	
 		\subsubsection{Functional Testing}
 			\input{Reporting/TeamA/FunctionalTests.tex}

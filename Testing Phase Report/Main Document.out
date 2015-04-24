@@ -6,28 +6,39 @@
 \BOOKMARK [2][-]{subsection.2.2}{Threads Team B}{section.2}% 6
 \BOOKMARK [3][-]{subsubsection.2.2.1}{Functional Testing}{subsection.2.2}% 7
 \BOOKMARK [3][-]{subsubsection.2.2.2}{Non-Functional Testing }{subsection.2.2}% 8
-\BOOKMARK [2][-]{subsection.2.3}{Threads Comparison}{section.2}% 9
-\BOOKMARK [1][-]{section.3}{Status Integration}{}% 10
-\BOOKMARK [2][-]{subsection.3.1}{Status Team A}{section.3}% 11
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Functional Testing}{subsection.3.1}% 12
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Non-Functional Testing }{subsection.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.2}{Status Team B}{section.3}% 14
-\BOOKMARK [3][-]{subsubsection.3.2.1}{Functional Testing}{subsection.3.2}% 15
-\BOOKMARK [3][-]{subsubsection.3.2.2}{Non-Functional Testing }{subsection.3.2}% 16
-\BOOKMARK [2][-]{subsection.3.3}{Status Comparison}{section.3}% 17
-\BOOKMARK [1][-]{section.4}{Resources Integration}{}% 18
-\BOOKMARK [2][-]{subsection.4.1}{Resources Team A}{section.4}% 19
-\BOOKMARK [3][-]{subsubsection.4.1.1}{Functional Testing}{subsection.4.1}% 20
-\BOOKMARK [3][-]{subsubsection.4.1.2}{Non-Functional Testing }{subsection.4.1}% 21
-\BOOKMARK [2][-]{subsection.4.2}{Resources Team B}{section.4}% 22
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Functional Testing}{subsection.4.2}% 23
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Non-Functional Testing }{subsection.4.2}% 24
-\BOOKMARK [2][-]{subsection.4.3}{Resources Comparison}{section.4}% 25
-\BOOKMARK [1][-]{section.5}{Reporting Integration}{}% 26
-\BOOKMARK [2][-]{subsection.5.1}{Reporting Team A}{section.5}% 27
-\BOOKMARK [3][-]{subsubsection.5.1.1}{Functional Testing}{subsection.5.1}% 28
-\BOOKMARK [3][-]{subsubsection.5.1.2}{Non-Functional Testing }{subsection.5.1}% 29
-\BOOKMARK [2][-]{subsection.5.2}{Reporting Team B}{section.5}% 30
-\BOOKMARK [3][-]{subsubsection.5.2.1}{Functional Testing}{subsection.5.2}% 31
-\BOOKMARK [3][-]{subsubsection.5.2.2}{Non-Functional Testing }{subsection.5.2}% 32
-\BOOKMARK [2][-]{subsection.5.3}{Reporting Comparison}{section.5}% 33
+\BOOKMARK [1][-]{section.3}{Quality Requirements}{}% 9
+\BOOKMARK [1][-]{section.4}{Maintainability}{}% 10
+\BOOKMARK [1][-]{section.5}{Scalability}{}% 11
+\BOOKMARK [1][-]{section.6}{Performance Requirements}{}% 12
+\BOOKMARK [1][-]{section.7}{Reliability and Availability}{}% 13
+\BOOKMARK [1][-]{section.8}{Security}{}% 14
+\BOOKMARK [1][-]{section.9}{Auditability}{}% 15
+\BOOKMARK [1][-]{section.10}{Testability}{}% 16
+\BOOKMARK [1][-]{section.11}{Usability}{}% 17
+\BOOKMARK [1][-]{section.12}{Integrability}{}% 18
+\BOOKMARK [1][-]{section.13}{Deployability}{}% 19
+\BOOKMARK [2][-]{subsection.13.1}{Threads Comparison}{section.13}% 20
+\BOOKMARK [1][-]{section.14}{Status Integration}{}% 21
+\BOOKMARK [2][-]{subsection.14.1}{Status Team A}{section.14}% 22
+\BOOKMARK [3][-]{subsubsection.14.1.1}{Functional Testing}{subsection.14.1}% 23
+\BOOKMARK [3][-]{subsubsection.14.1.2}{Non-Functional Testing }{subsection.14.1}% 24
+\BOOKMARK [2][-]{subsection.14.2}{Status Team B}{section.14}% 25
+\BOOKMARK [3][-]{subsubsection.14.2.1}{Functional Testing}{subsection.14.2}% 26
+\BOOKMARK [3][-]{subsubsection.14.2.2}{Non-Functional Testing }{subsection.14.2}% 27
+\BOOKMARK [2][-]{subsection.14.3}{Status Comparison}{section.14}% 28
+\BOOKMARK [1][-]{section.15}{Resources Integration}{}% 29
+\BOOKMARK [2][-]{subsection.15.1}{Resources Team A}{section.15}% 30
+\BOOKMARK [3][-]{subsubsection.15.1.1}{Functional Testing}{subsection.15.1}% 31
+\BOOKMARK [3][-]{subsubsection.15.1.2}{Non-Functional Testing }{subsection.15.1}% 32
+\BOOKMARK [2][-]{subsection.15.2}{Resources Team B}{section.15}% 33
+\BOOKMARK [3][-]{subsubsection.15.2.1}{Functional Testing}{subsection.15.2}% 34
+\BOOKMARK [3][-]{subsubsection.15.2.2}{Non-Functional Testing }{subsection.15.2}% 35
+\BOOKMARK [2][-]{subsection.15.3}{Resources Comparison}{section.15}% 36
+\BOOKMARK [1][-]{section.16}{Reporting Integration}{}% 37
+\BOOKMARK [2][-]{subsection.16.1}{Reporting Team A}{section.16}% 38
+\BOOKMARK [3][-]{subsubsection.16.1.1}{Functional Testing}{subsection.16.1}% 39
+\BOOKMARK [3][-]{subsubsection.16.1.2}{Non-Functional Testing }{subsection.16.1}% 40
+\BOOKMARK [2][-]{subsection.16.2}{Reporting Team B}{section.16}% 41
+\BOOKMARK [3][-]{subsubsection.16.2.1}{Functional Testing}{subsection.16.2}% 42
+\BOOKMARK [3][-]{subsubsection.16.2.2}{Non-Functional Testing }{subsection.16.2}% 43
+\BOOKMARK [2][-]{subsection.16.3}{Reporting Comparison}{section.16}% 44
