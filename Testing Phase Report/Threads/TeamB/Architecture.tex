@@ -55,5 +55,33 @@ In accordance with the project specifications, the architectural requirements we
                     \item Check authentication against LDAP and flexible configurable authorization framework.
                     \item No authorization is handled.
                 \end{itemize}
+                 \item \subsection{Auditability}
+                \begin{itemize}
+                    \item The systems logs all requests and responses as stringified JSON object.
+                    \item They printed out whenever a function was called but not kept in a database.
+                \end{itemize}
                 
+            \item \subsection{Testability}
+                \begin{itemize}
+                    \item Must be testable through unit testing and integration tests. Should verify that pre and post conditions met.
+                    \item Unit tests have been implemented but they do not succeed as the system itself is flawed.
+                \end{itemize}
+            
+            \item \subsection{Usability}
+                \begin{itemize}
+                    \item The system should be intuitive and fun to use.
+                    \item This section is directed more towards the final end-product.
+                \end{itemize}
+            
+            \item \subsection{Integrability}
+                \begin{itemize}
+                    \item The system should be able to easily integrate future requirements.
+                    \item The simplistic nature allows for this.
+                \end{itemize}
+                
+            \item \subsection{Deployability}
+                \begin{itemize}
+                    \item The system must be deployable on Linux servers, different database persistence environments and, diferent repositories for authentication credentials.
+                    \item The system is deployable on Linux server.
+                \end{itemize}
         \end{itemize}
