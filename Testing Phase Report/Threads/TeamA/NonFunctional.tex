@@ -1,52 +1,9 @@
-\section{Quality Requirements}
-\paragraph{This section looks st the manner in which the code is made and maintained}
-\section{Maintainability}
-	\begin{itemize}
-		\item How flexible and extensible is the code and, can the system be easily maintained in future?
-		\item The code is slightly cluttered with commenting providing some descriptions of the code making future changed slightly challenging.
-	\end{itemize}
-\section{Scalability}
-	\begin{itemize}
-		\item The system should be easily scalable to large systems from the University of Pretoria to even larger systems.
-		\item The system is implemented quite simplistically and not rigid allowing for mass deployment
-	\end{itemize}
-\section{Performance Requirements}
-	\begin{itemize}
-		\item Reporting operations should take no more than 5 seconds while non-reporting operations should take less than (or equal to) 0.2 seconds.
-		\item This system does not work so we cannot test.
-	\end{itemize}
-\section{Reliability and Availability}
-	\begin{itemize}
-		\item Should support fail-safe over safety of components and deployment without a single point of failure.
-		\item There are no fail safes provided and the code is not completed (many TODO's).
-	\end{itemize}
-\section{Security}
-	\begin{itemize}
-		\item Check authentication against LDAP and flexible configurable authorization framework.
-		\item No authorization is handled.
-	\end{itemize}
-\section{Auditability}
-	\begin{itemize}
-		\item The systems logs all requests and responses as stringified JSON object.
-		\item Printing to the console is provided and their are some logging but not as JSON strings.
-	\end{itemize}
-\section{Testability}
-	\begin{itemize}
-		\item Must be testable through unit testing and integration tests. Should verify that pre and post conditions met.
-		\item There is a general test file that checks for all pre and post conditions of the system.
-	\end{itemize}
-\section{Usability}
-	\begin{itemize}
-		\item The system should be intuitive and fun to use.
-		\item This section is directed more towards the final end-product.
-	\end{itemize}
-\section{Integrability}
-	\begin{itemize}
-		\item The system should be able to easily integrate future requirements.
-		\item The rigidity of the system would make it a problem for future integration.
-	\end{itemize}
-\section{Deployability}
-	\begin{itemize}
-		\item The system must be deployable on Linux servers, different database persistence environments and, diferent repositories for authentication credentials.
-		\item The system is deployable on Linux server. Implementation for access to other environments does not seem to be provided.
-	\end{itemize}
+\paragraph{Maintainability}
+	This was not met as very little code was implemented that can be maintained.
+	\subparagraph{Example of problem}
+		Very little code was implemented to be maintained, thus lack of code as an example.
+		
+\paragraph{Testability}
+	This was not met as very little code was implemented that can be maintained.
+	\subparagraph{Example of problem}
+		Very little code was implemented to be maintained, thus lack of code as an example.

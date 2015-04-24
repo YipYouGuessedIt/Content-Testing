@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  24 APR 2015 17:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  24 APR 2015 20:13
 entering extended mode
 **Main*Document.tex
 
@@ -268,17 +268,17 @@ TeamA/NonFunctional.tex")
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Threads/
 TeamB/FunctionalTests.tex" [2])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Threads/
-TeamB/NonFunctional.tex" [3] [4]) [5]
+TeamB/NonFunctional.tex") [3]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Status/T
-eamA/FunctionalTests.tex" [6])
+eamA/FunctionalTests.tex" [4])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Status/T
 eamA/NonFunctional.tex")
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Status/T
-eamB/FunctionalTests.tex" [7] [8])
+eamB/FunctionalTests.tex" [5] [6])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Status/T
-eamB/NonFunctional.tex") [9]
+eamB/NonFunctional.tex") [7]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
-s/TeamA/FunctionalTests.tex" [10])
+s/TeamA/FunctionalTests.tex" [8])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
 s/TeamA/NonFunctional.tex"
 Overfull \hbox (7.22903pt too wide) in paragraph at lines 10--11
@@ -286,7 +286,7 @@ Overfull \hbox (7.22903pt too wide) in paragraph at lines 10--11
  time, lack of browser caching 
  []
 
-) [11]
+) [9]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
 s/TeamB/FunctionalTests.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
@@ -310,7 +310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
-[12]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 47--49
  []\OT1/cmr/bx/n/12 Actual Test out-put[] \OT1/cmr/m/n/12 This test was a suc-c
 ess
@@ -329,23 +329,23 @@ le ex-cep-tion should be thrown
 
 )
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Resource
-s/TeamB/NonFunctional.tex" [13]) [14]
+s/TeamB/NonFunctional.tex" [11]) [12]
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamA/FunctionalTests.tex" [15] [16])
+g/TeamA/FunctionalTests.tex" [13] [14])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
 g/TeamA/NonFunctional.tex")
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamB/FunctionalTests.tex" [17] [18])
+g/TeamB/FunctionalTests.tex" [15] [16])
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Reportin
-g/TeamB/NonFunctional.tex" [19])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
- [20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+g/TeamB/NonFunctional.tex") [17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
 
 ("C:\Users\Duran\Documents\GitHub\Content-Testing\Testing Phase Report\Main Doc
 ument.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `Main*Document.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
@@ -353,23 +353,23 @@ Package rerunfilecheck Info: File `Main*Document.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 32.0255pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 5283 strings out of 493921
- 82039 string characters out of 3144475
- 153823 words of memory out of 3000000
- 8293 multiletter control sequences out of 15000+200000
+ 5264 strings out of 493921
+ 81803 string characters out of 3144475
+ 155823 words of memory out of 3000000
+ 8283 multiletter control sequences out of 15000+200000
  8193 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,5n,28p,580b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,28p,580b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ><C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
 /Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Main Document.pdf" (23 pages, 141252 bytes).
+Output written on "Main Document.pdf" (21 pages, 131609 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 225 named destinations out of 1000 (max. 500000)
- 353 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 487 PDF objects out of 1000 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
